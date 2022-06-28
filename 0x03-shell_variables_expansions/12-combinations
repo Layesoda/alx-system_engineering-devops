@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "best School\n" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'dd
+echo {a..z}{a..z.} | tr " " "\n" | egrep -v "oo"
